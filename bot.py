@@ -11,7 +11,6 @@ load_dotenv()  # carrega variáveis do arquivo .env
 
 TOKEN = "8681665732:AAF4yH7ZsDcbwM9AadyUwCdj9VNQ-cd6VEM"
 MP_ACCESS_TOKEN = "APP_USR-868352168445767-021016-645bc4b72763e563a30ca5206b38c45c-3135843170"
-
 # Inicializa Mercado Pago
 mp = mercadopago.SDK(APP_USR-5373db61-cda1-46cb-a001-168f39260acf)
 
